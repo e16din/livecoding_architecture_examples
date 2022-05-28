@@ -1,2 +1,2 @@
-# livecoding_architecture_examples
+# Livecoding Architecture Examples
 Здесь я выкладываю код проектов с примерами разной архитектуры что мы разбираем на внеплановых вебинарах
